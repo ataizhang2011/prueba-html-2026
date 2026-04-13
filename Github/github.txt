@@ -1,0 +1,8 @@
+git init
+git config --global user.name XXX
+git config --global user.email XX@XX.com
+git config --global core.editor code --wait
+git config --global -e
+
+git config --global core.autoctlf true(windows)/input(mac)
+git config --global -e
